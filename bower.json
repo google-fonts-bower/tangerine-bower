@@ -1,0 +1,17 @@
+{
+    "name": "tangerine-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Toshi Omagari"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/tangerine-bower.git"
+    },
+    "description": "Tangerine font",
+    "keywords": [
+        "font",
+        "HANDWRITING"
+    ]
+}
